@@ -1,5 +1,5 @@
 #one class for Library
-#one class for cust
+#one class for customer
 #Library - show list of books, lend a book, add a book
 #customer - request for a book, return a book
 class Library:
